@@ -1,0 +1,10 @@
+{
+  "scrapers": [
+    {
+      "name": "Amazon",
+      "urlPattern": "www.amazon.",
+      "searchUrl": "https://www.amazon.com/s?k={term}"
+    }
+  ],
+  "file": "amazon.js"
+}
